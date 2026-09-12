@@ -1,0 +1,7 @@
+﻿Extrait du contrat fournisseur - Reapprovisionnement materiel reseau
+
+Le fournisseur s'engage a livrer les commandes de cablage reseau et materiel de connectique sous un delai de reapprovisionnement de 7 jours ouvres a compter de la validation de la commande.
+
+En cas de rupture de stock chez le fournisseur, un delai supplementaire de 10 jours peut etre applique, avec notification prealable au client par email.
+
+Les prix sont revisables trimestriellement selon l'evolution du cours des matieres premieres (cuivre, plastique). Toute variation de plus de 5% fait l'objet d'une notification ecrite 30 jours avant application.
